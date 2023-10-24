@@ -49,10 +49,4 @@ install.packages(c("shiny", "shinybusy", "rinat", "dplyr", "leaflet", "leaflegen
 - Click on markers to view more details about each species.
 
 ## Contact
-For more information or troubleshooting, feel free to contact [Your Contact Information Here].
-
----
-
-**Q1:** Would you like to add any more advanced features, such as real-time data fetching or the ability to download reports?  
-**Q2:** Are there other data sources that you would consider incorporating into the application?  
-**Q3:** How would you measure the effectiveness and usability of this tool, especially among your target audience?  
+For more information or troubleshooting, feel free to contact Bailey Howell (bkhowell@vt.edu) or Nic Bone (nicbone@vt.edu).
