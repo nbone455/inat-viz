@@ -9,7 +9,7 @@
 6. [Contact](#contact)
 
 ## Overview
-The `iNat-Viz` is a Shiny application designed to visualize invasive species data from the iNaturalist platform. The application incorporates geographic, taxonomic, and management information to provide a comprehensive view of invasive species in a specified location. 
+The `iNat-Viz` is a Shiny application designed to visualize invasive species data from the iNaturalist platform. The application incorporates geographic, taxonomic, and management information to provide a comprehensive view of invasive species in a specified location. Currently it is set up to display Blacksburg's Brush Mountain property.
 
 ## intent
 this app was created as part of a Interfaces of Global Change capstone project by graduate students Bailey Howell, Jordan Coscia, Nic Bone and Forde Upshur, the Invasive Species Working group at Virginia Tech, and the Town of Blacksburg.
