@@ -1,4 +1,6 @@
-# iNat-Viz: Invasive Species Visualizer for Brush Mountain property 3
+# iNat-Viz: Invasive Species Visualizer for Brush Mountain
+
+![Screenshot 2025-01-08 at 11 48 23 AM](https://github.com/user-attachments/assets/b005758c-c216-4fc6-aef0-db6df44f63cb)
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -43,7 +45,7 @@ install.packages(c("shiny", "shinybusy", "rinat", "dplyr", "leaflet", "leaflegen
 - **Dynamic Query**: Ability to input iNaturalist Place ID to visualize different locations.
 
 ## Usage
-- Input the iNaturalist Place ID for the location you want to explore.
+- Input the iNaturalist Place ID for the location you want to explore. For Brush Mountain property 3, use "Brush Mountain 3" or id 184078
 - Click the "Submit" button to render the map.
 - Use the layer control to toggle the visibility of different species on the map.
 - Click on markers to view more details about each species.
