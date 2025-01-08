@@ -43,7 +43,7 @@ install.packages(c("shiny", "shinybusy", "rinat", "dplyr", "leaflet", "leaflegen
 - **Dynamic Query**: Ability to input iNaturalist Place ID to visualize different locations.
 
 ## Usage
-- Input the iNaturalist Place ID for the location you want to explore.
+- Input the iNaturalist Place ID for the location you want to explore. For Brush Mountain property 3, use "Brush Mountain 3" or id 184078
 - Click the "Submit" button to render the map.
 - Use the layer control to toggle the visibility of different species on the map.
 - Click on markers to view more details about each species.
