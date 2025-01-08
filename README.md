@@ -1,4 +1,4 @@
-# iNat-Viz: Invasive Species Visualizer for Brush Mountain property 3
+# iNat-Viz: Invasive Species Visualizer for Brush Mountain
 
 ![Screenshot 2025-01-08 at 11 48 23 AM](https://github.com/user-attachments/assets/b005758c-c216-4fc6-aef0-db6df44f63cb)
 
